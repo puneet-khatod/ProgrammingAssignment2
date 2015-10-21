@@ -1,5 +1,5 @@
-## Functions in this file are written to demonstate basic implementation of object caching in R
-## Here we are creating a special matrix which can cache its inverse and use the result from cache.
+## Functions in this file are written to demonstrate basic implementation of caching in R
+## Here we are creating a special matrix which can cache its inverse and we can use the result from cache.
 
 ## This function accepts a matrix as argument and creates cacheable matrix through it.
 
